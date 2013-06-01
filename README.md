@@ -1,7 +1,7 @@
 CSRA Park Map
 ================
 
-Super Happy Block Party 2013 Hackathon Challenge #2
+Super Happy Block Party 2013 Hackathon Challenge #2  
 Sponsored by Georgia Regents University (http://gru.edu)
 
 Objective
