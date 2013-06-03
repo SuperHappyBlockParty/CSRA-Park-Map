@@ -1,0 +1,59 @@
+<wpml-config>
+	<custom-fields>
+		<custom-field action="copy">add_feature</custom-field>
+		<custom-field action="copy">alive_days</custom-field>
+		<custom-field action="copy">contact</custom-field>
+		<custom-field action="copy">daily_date</custom-field>
+		<custom-field action="copy">description</custom-field>
+		<custom-field action="copy">email</custom-field>
+		<custom-field action="copy">end_date</custom-field>
+		<custom-field action="copy">end_time</custom-field>
+		<custom-field action="copy">facebook</custom-field>
+		<custom-field action="copy">featured_type</custom-field>
+		<custom-field action="copy">geo_address</custom-field>
+		<custom-field action="copy">geo_latitude</custom-field>
+		<custom-field action="copy">geo_longitude</custom-field>
+		<custom-field action="copy">home_featured_type</custom-field>
+		<custom-field action="copy">ip_status</custom-field>
+		<custom-field action="copy">is_featured</custom-field>
+		<custom-field action="copy">keywords</custom-field>
+		<custom-field action="copy">map_view</custom-field>
+		<custom-field action="copy">paid_amount</custom-field>
+		<custom-field action="copy">paymentmethod</custom-field>
+		<custom-field action="copy">post_city_id</custom-field>
+		<custom-field action="copy">proprty_feature</custom-field>
+		<custom-field action="copy">pt_dummy_content</custom-field>
+		<custom-field action="copy">reg_desc</custom-field>
+		<custom-field action="copy">reg_fees</custom-field>
+		<custom-field action="copy">remote_ip</custom-field>
+		<custom-field action="copy">st_date</custom-field>
+		<custom-field action="copy">st_time</custom-field>
+		<custom-field action="copy">templ_seo_page_desc</custom-field>
+		<custom-field action="copy">templ_seo_page_kw</custom-field>
+		<custom-field action="copy">templ_seo_page_title</custom-field>
+		<custom-field action="copy">timing</custom-field>
+		<custom-field action="copy">title</custom-field>
+		<custom-field action="copy">tl_dummy_content</custom-field>
+		<custom-field action="copy">total_amount</custom-field>
+		<custom-field action="copy">twitter</custom-field>
+		<custom-field action="copy">video</custom-field>
+		<custom-field action="copy">viewed_count</custom-field>
+		<custom-field action="copy">viewed_count_daily</custom-field>
+		<custom-field action="copy">website</custom-field>
+		<custom-field action="copy">zooming_factor</custom-field>
+		<custom-field action="copy">site_title</custom-field>
+		<custom-field action="copy">clabels</custom-field>	    
+		<custom-field action="copy">field_require_desc</custom-field>
+		<custom-field action="copy">admin_desc</custom-field>
+	</custom-fields>
+	<custom-types>
+		<custom-type translate="1">place</custom-type>
+		<custom-type translate="1">event</custom-type>
+	</custom-types>
+	<taxonomies>
+		<taxonomy translate="1">placecategory</taxonomy>
+		<taxonomy translate="1">eventcategory</taxonomy>
+		<taxonomy translate="1">placetags</taxonomy>
+		<taxonomy translate="1">eventtags</taxonomy>
+	</taxonomies>
+</wpml-config>

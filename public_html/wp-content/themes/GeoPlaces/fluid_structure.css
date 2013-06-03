@@ -1,0 +1,61 @@
+/* =========================================================================================================================== 
+structure 
+===========================================================================================================================*/
+.header { clear:both;  }
+.wrapper, .top_navigation_in, .header_in, .footer_in { width:92%; margin:0 auto;  }
+.top_navigation { position:relative; z-index:99; }
+.main_nav {}
+.main_nav_in { }
+.header { overflow: hidden;  border-top:1px solid #ccc; }
+.wrapper { }
+#container { padding: 5px 0 45px 0; }
+.footer { clear:both; }
+
+.left { float: left;}
+.right { float: right;}
+
+
+/*** layout 2 columns =============***/
+.content {width: 65%; padding-top:15px;  }
+.sidebar { width: 29%; padding-top:20px; }
+
+/*** layout Full =============***/
+.content_full {width: 100%;}
+
+/*** layout 3 columns Fixed ===============***/
+.column_spacer { padding-left:30px; }
+.content_3col { width: 60%; margin-left:16.3%; position:relative; }
+.sidebar_3col_l, .sidebar_3col_r { width:15%; }
+.sidebar_3col_l { padding-right:2%; border-right:1px solid #ccc; margin-left:-775px; }
+.sidebar_3col_r { padding-left:2%; border-left:1px solid #ccc; }
+
+/*** layout 3 columns -> sidebar Left =============***/
+.content_3col_right { width: 60%;  }
+.sidebar_3col_merge_l { width:35%; padding-right:2%; border-right:1px solid #ccc; }
+.sidebar_3col_merge_l .sidebar_3col_l_m, .sidebar_3col_merge_l .sidebar_3col_r_m { width:45%; }
+.sidebar_3col_merge_l .sidebar_3col_l_m { padding-right:4%; border-right:1px solid #ccc; }
+.sidebar_3col_merge_l .sidebar_3col_r_m {  border-left:none; }
+
+
+/*** layout 3 columns -> sidebar Right =============***/
+.content_3col_left { width: 60%;  }
+.sidebar_3col_merge_r { width:35%; padding-left:2%; border-left:1px solid #ccc; }
+.sidebar_3col_merge_r .sidebar_3col_l_m, .sidebar_3col_merge_r .sidebar_3col_r_m  { width:45%; }
+.sidebar_3col_merge_r .sidebar_3col_l_m { padding-right:4%; border-right:1px solid #ccc; }
+.sidebar_3col_merge_r .sidebar_3col_r_m {  border-left:none; }
+
+.spacer { padding:40px 0; clear:both;  } /* remove this class last*/
+.bottom_in { padding:20px 0 0 0; clear:both;  border-top:3px double #ccc;  }
+.footer { height: 60px; border-top: 3px double #d9d9d9; padding-top: 20px;}
+
+
+/*** Bootom Section  =============***/
+.max_width { width:60%; padding:0 10px; }
+.min_width { width:30%; padding:0 10px; }
+
+.equal_column { width:46%; padding:0 10px; }
+.three_column { width:30%; padding:0 10px; }
+.fourth_column { width:20%; padding:0 10px; }
+
+.spacer_3col { margin-left:3%; }
+.spacer_4col { margin-left:4%; }

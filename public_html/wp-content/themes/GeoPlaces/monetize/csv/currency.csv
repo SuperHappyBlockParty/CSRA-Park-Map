@@ -1,0 +1,20 @@
+ID,Name,Code,symbol,symbol_position
+1,Australian Dollar,AUD,$,1
+2,Canadian Dollar,CAD,$,1
+3,Euro,EUR,&euro;,1
+4,Indian Rupees,INR,Rs.,1
+5,New Zealand dollar,NZD,$,1
+6,Singapore Dollars,SNG,$,1
+7,Southafrican Rand,ZAR,R,1
+8,Stearling Pound,GBP,&pound;,1
+9,US Dollar,USD,$,1
+10,Yen,Yen,&yen;,1
+11,Swiss Franc,CHF,CHF,1
+12,Swedish Krona,SEK,SEK,1
+13,Danish Krone,DKK,DKK,1
+14,Polish Zloty,PLN,PLN,1
+15,Norwegian Krone,NOK,NOK,1
+16,Hungarian Forint,HUF,HUF,1
+17,Czech Krouna,CZK,CZK,1
+18,Isreeli Shekel,ILS,ILS,1
+19,Mexican Peso,MXN,MXN,1
